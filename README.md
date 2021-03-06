@@ -1,2 +1,2 @@
 # Fig-Editor
-# Editor for Patent JPEG Figures
+Editor for Patent JPEG Figures
